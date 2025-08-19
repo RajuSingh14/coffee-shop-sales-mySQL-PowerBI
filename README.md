@@ -4,3 +4,4 @@ Coffee Shop Sales Analysis | MySQL + Power BI Dashboard ☕📊 End-to-end data 
 
 ![Coffee Shop Sales Dashboard](Coffee%20Shop%20Sales.png)
 
+mysql, sql, powerbi, dashboard, data-analytics, business-intelligence
